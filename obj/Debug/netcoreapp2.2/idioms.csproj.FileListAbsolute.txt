@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\lightning\idioms\bin\Debug\netcoreapp2.2\idioms.deps.json
+C:\Users\naienko\workspace\csharp\lightning\idioms\bin\Debug\netcoreapp2.2\idioms.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\lightning\idioms\bin\Debug\netcoreapp2.2\idioms.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\lightning\idioms\bin\Debug\netcoreapp2.2\idioms.dll
+C:\Users\naienko\workspace\csharp\lightning\idioms\bin\Debug\netcoreapp2.2\idioms.pdb
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.dll
+C:\Users\naienko\workspace\csharp\lightning\idioms\obj\Debug\netcoreapp2.2\idioms.pdb
